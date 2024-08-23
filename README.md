@@ -54,8 +54,7 @@ El proceso de Data Wrangling, también conocido como preprocesamiento de datos, 
 
 - **Limpieza y Transformación**: Completa.
 - **Preparación para el Análisis Exploratorio de Datos (EDA)**: Próximo paso.
-- **EDA Generado con Data Prep**: Empezaré el análisis exploratorio en breve.
-
+- **EDA Generado con Data Prep**: Se genero el EDA con la libreria dataprep para tener un primer pantallazo de los resultados del DataWrangling, lamentablemente esto no puede visualizarse correctamente en GitHUB
 ## Contribuciones 🤝
 
 Este proyecto es un esfuerzo individual como parte del curso de Coder House. Cualquier sugerencia o comentario para mejorar el análisis es bienvenido.
