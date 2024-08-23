@@ -60,9 +60,7 @@ El proceso de Data Wrangling, también conocido como preprocesamiento de datos, 
 
 Este proyecto es un esfuerzo individual como parte del curso de Coder House. Cualquier sugerencia o comentario para mejorar el análisis es bienvenido.
 
-## Contacto 📧
 
-Para preguntas o comentarios sobre este proyecto, por favor, contacta a [Tu Nombre] en [Tu Correo Electrónico].
 
 ---
 
