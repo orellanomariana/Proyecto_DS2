@@ -1,6 +1,6 @@
 # Proyecto_DS2
 
-# Proyecto de Ciencia de Datos: Análisis de Instagram 📊
+# Proyecto de Ciencia de Datos: Maximizando el Engagement - Análisis de Instagram 📊
 
 ## Objetivo 🎯
 
